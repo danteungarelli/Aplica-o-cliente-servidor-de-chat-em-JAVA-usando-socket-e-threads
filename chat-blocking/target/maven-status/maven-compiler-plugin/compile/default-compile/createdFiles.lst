@@ -1,0 +1,4 @@
+ChatServer.class
+ClientSocket.class
+ChatClient.class
+com\mycompany\chat\blocking\ChatBlocking.class
